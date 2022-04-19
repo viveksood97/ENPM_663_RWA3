@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: group4_rwa3
+Description: Description of group4_rwa3
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

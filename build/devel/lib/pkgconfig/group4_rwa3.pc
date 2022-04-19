@@ -1,0 +1,8 @@
+prefix=/home/blade/ariac_ws/src/group4_rwa3/build/devel
+
+Name: group4_rwa3
+Description: Description of group4_rwa3
+Version: 0.0.0
+Cflags: -I/home/blade/ariac_ws/src/group4_rwa3/include
+Libs: -L${prefix}/lib 
+Requires: 
